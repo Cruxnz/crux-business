@@ -20,6 +20,8 @@ Why does speed matter? Some would argue that a 100MPBS speed is _good enough_, a
 
 MyRepublic, an ISP that originated in Singapore but now also operates in NZ, has cleverly realised this and offered a special "gamer" plan to consumers for an addition $10. There is a slight flaw in their model, though - the product is basically identical to their "fibre pro" package, and is identical in terms of up/down speed.
 
+![Gigatown](gigatown-special.png)
+
 Who would want the "fibre pro" package? Well, first of all gamers who aren't stupid enough to be swindled out of an extra $10 per month. Secondly, basically anyone who values their time. In a massive amount of jobs today there is online work, and online work means downloads/uploads. Depending on the nature of the job, a better internet connection can save seconds or even minutes per day. This can add up to massive time saves in the long term, freeing up resources for leisure/more productivity, and ultimately increasing the wellbeing of a society.
 
 ## Money
