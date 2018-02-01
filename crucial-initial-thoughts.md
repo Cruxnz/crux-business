@@ -16,7 +16,7 @@ Here's a hypothesis. Stuff gets its speed directly from its wholesale provider o
 
 ## Speed
 
-Why does speed matter? Some would argue that a 100MPBS speed is _good enough_, and anything more than this is just greedy. Who typically wants better internet speeds? One common consumer is the online gamer.
+Why does speed matter? Some would argue that a 100MBPS speed is _good enough_, and anything more than this is just greedy. Who typically wants better internet speeds? One common consumer is the online gamer.
 
 MyRepublic, an ISP that originated in Singapore but now also operates in NZ, has cleverly realised this and offered a special "gamer" plan to consumers for an addition $10. There is a slight flaw in their model, though - the product is basically identical to their "fibre pro" package, and is identical in terms of up/down speed.
 
@@ -34,7 +34,7 @@ However, I believe that there is a massive opportunity here, to retail gigabit f
 
 Where is the opportunity? Both 100MBPS and 1GBPS connections are throttled versions of fibre. If any ISP claims not to throttle connection speeds, chances are they are either being disingenious or passing the buck onto Chorus, who handle the throttling via the ONT at each end of the cable.
 
-In fact, much faster speeds are possible. [Here](https://blog.chorus.co.nz/we-have-1-gig-broadband-whats-next/) Chorus explains that they are doing research to allow 10GPBS connections, which again requires no change in the fibre cabling infrastructure but rather the processors (ONTs) at either end of each connection.
+In fact, much faster speeds are possible. [Here](https://blog.chorus.co.nz/we-have-1-gig-broadband-whats-next/) Chorus explains that they are doing research to allow 10GBPS connections, which again requires no change in the fibre cabling infrastructure but rather the processors (ONTs) at either end of each connection.
 
 Stuff has the right idea, offering bargain contracts to consumers that undercut current ISPs, but they still offer a throttled version of fibre that does not provide the best customer experience.
 
@@ -42,7 +42,7 @@ What's a business model that could work in today's business climate? Simply offe
 
 | Object        | Cost           | Number  | Party |
 | ------------- |:-------------:| -----:| -----: |
-|   Fibre pro (1GPBS)    | $80 per month | 100,000 | Crucial |
+|   Fibre pro (1GBPS)    | $80 per month | 100,000 | Crucial |
 | Wholesale fibre | $60 per month | 100,000 | Chorus |
 |                 |            |    Revenue: | $2 million per month |
 
@@ -66,17 +66,17 @@ $1.5 billion dollars were invested as part of the initiative, and Crown Fibre Ho
 
 The goal is for both Chorus and Crucial to work together and create lower cost broadband at the maximum speed possible given the infrastructure, increasing consumer fibre connections. It sounds simple, but there are 2 key questions:
 
-1. What is the difference in cost between an ONT capable of handling a 100MPBS connection and an ONT capable of handling a 1GPBS connection?
+1. What is the difference in cost between an ONT capable of handling a 100MBPS connection and an ONT capable of handling a 1GBPS connection?
 
 2. What are the theoretical numbers on Chorus' infrastructure being able to handle large amounts of gigabit connections, to reduce the risk of network congestion as consumer use of bandwidth increases due to the increased caps?
 
 Information relevant to question 1 is here - https://www.crowninfrastructure.govt.nz/media/19366/chorus%20published%20ufb%20price%20book%20summary%20(15%20july%202011).pdf.
 
-The price difference seems to be relatively small. A "P2P access product" that allows 1GPBS up/down is $75 more expensive than one that allows 100MBPS up/down ($380 vs $455). I'm assuming that the P2P access product is what is used for 1GPBS connections, however there may be additional costs (eg. the E-NNI 2/3 ports, costing $100 for 1GPBS).
+The price difference seems to be relatively small. A "P2P access product" that allows 1GBPS up/down is $75 more expensive than one that allows 100MBPS up/down ($380 vs $455). I'm assuming that the P2P access product is what is used for 1GBPS connections, however there may be additional costs (eg. the E-NNI 2/3 ports, costing $100 for 1GBPS).
 
 I do not have enough information to answer question 2 effectively. This is where I ask Chorus for transparent data on their network usage and capabilities.
 
-However, there are many elements to consider with question 2. By giving someone a 1GPBS connection over a 100MBPS connection, do we assume that their internet usage will increase? If so, by how much? It's hard to predict what effect this would actually have on a network. More data is needed.
+However, there are many elements to consider with question 2. By giving someone a 1GBPS connection over a 100MBPS connection, do we assume that their internet usage will increase? If so, by how much? It's hard to predict what effect this would actually have on a network. More data is needed.
 
 Here is the "ideal scenario" - Crucial offers flexible plans to consumers (no contracts) at a much lower cost than current ADSL,VDSL or even fibre plans with existing ISPs. $42 per month is the price, as this number is apparently the meaning of life. This price is subsidised by Chorus/maybe other CFH fibre providers, and in turn CFH.
 
