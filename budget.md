@@ -29,4 +29,4 @@ Budget of $10,000. I'm not a marketing expert but this should be spent on promot
 | Support team initial cost| $5000 |
 |   PLI         | $1000 |
 | Marketing | $10,000 |
-|       TOTAL:       | $150,000|
+|       TOTAL:       | $141,000|
