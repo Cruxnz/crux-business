@@ -30,3 +30,15 @@ Budget of $10,000. I'm not a marketing expert but this should be spent on promot
 |   PLI         | $1000 |
 | Marketing | $10,000 |
 |       TOTAL:       | $141,000|
+
+## Goals
+
+Crucial has simple goals, to be achieved within a year of its inception.
+
+1. A web portal that allows users to see their connection status and billing. Users should be able to cancel online, and _potentially_ sign up online if the fibre infrastructure is already in place. This will probably require orchestration with Chorus.
+
+2. If fibre infrastructure is not in place, _strive_ to get an exact date on when the fibre will be installed for the customer. This will be a complex orchestration of all the puzzle pieces that go into installing fibre for a consumer. I do not expect this to be easy.
+
+3. 5000 customers on a non-throttled fibre connection, targeting Auckland and Wellington to begin with, and expanding if appropriate and feasible. Limiting to 2 regions allows for easier analysis of infrastructure such as network pipe capacity from each household.
+
+4. Routers/modems will not be sold initially, but information will be available to customers about what routers work/how to set them up. This is another weak point alongside fibre installation. Wholesale purchase of routers and onselling to customers is a longer term goal. Ultimately, the goal is to make router setup as simple as possible (in line with Crucial's philosophy).
