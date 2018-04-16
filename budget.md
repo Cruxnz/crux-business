@@ -59,3 +59,12 @@ Crucial has simple goals, to be achieved within a year of its inception.
 3. 5,000 customers on a non-throttled fibre connection, targeting Auckland and Wellington to begin with, and expanding if appropriate and feasible. Limiting to 2 regions allows for easier analysis of infrastructure such as network pipe capacity from each household.
 
 4. Routers/modems will not be sold initially, but information will be available to customers about what routers work/how to set them up. This is another weak point alongside fibre installation. Wholesale purchase of routers and onselling to customers is a longer term goal. Ultimately, the goal is to make router setup as simple as possible (in line with Crucial's philosophy).
+
+## Revenue projection
+
+| Year        | Customer          | Revenue per customer | Total Revenue |
+| ------------- | ------------- | ------------- |:-------------:|
+| Year 1 | 500 | 65.00 | 32,500 |
+| Year 2  | 2,000 | 65.00 | 130,000 |
+| Year 3| 5,000 | 65.00 | 325,000 |
+|       TOTAL       | 65.00 |  487,500 |
