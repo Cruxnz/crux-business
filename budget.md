@@ -67,4 +67,4 @@ Crucial has simple goals, to be achieved within a year of its inception.
 | Year 1 | 500 | 65.00 | 32,500 |
 | Year 2  | 2,000 | 65.00 | 130,000 |
 | Year 3| 5,000 | 65.00 | 325,000 |
-|       TOTAL       | 65.00 |  487,500 |
+|       TOTAL     |  |  |  487,500 |
