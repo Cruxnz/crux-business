@@ -13,8 +13,27 @@ The only product being purchased is UFB (1 GBPS) at an estimated cost of $60 per
 ## Design and development of website and branding
 2 months development time @ $5000 total
 
-## Customer Support Team
-Note that long term, it would be better to have an AI assisted support team (such as a chatbot) that can handle technical issues. It is possible to automate the support team before use of AI though, by only offering an email contact for support on the website (Bigpipe apparently does this). Although support team salary can be paid out of revenue, a buffer is a good idea to ensure that capacity for support is comfortable. Estimated buffer of $5000.
+## Research and Development costs
+A part time developer and/or designer needed to help with the research and development workload of open source resource. Releasing documentation, diagrams and code which illustrate how the internet works from a networking layer perspective. 
+
+1) Code base need for integration with Chorus' API (Application Programming Interface)
+- Open source and will be publicly available.
+- Developer (90 hours)
+
+2) Diagram around the networking layer including fundamental of ISP operation.
+- Router, ONT, Stations, Southern Cross line, Servers
+- Designer (80 hours)
+
+3) Research topic: Multi-plexing
+Show real time data visualisation of bandwidth usage across the network as a public resource. Could be a first for an ISP.
+- Show capacity across example connection, bandwidth topography
+- Developer (110 hours) needed to develop browser web application to show network topography.
+
+~$30 per hour x 280 hours = $8,400
+
+## Running costs
+
+Server uptake
 
 ## Marketing
 
